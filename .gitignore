@@ -1,0 +1,41 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Binaries & Executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Node & Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Java & Backend
+target/
+*.class
+*.jar
+*.war
+.mvn/
+apache-maven*/
+
+# Python & RAG Service
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.pytest_cache/
+
+# IDE & OS
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db

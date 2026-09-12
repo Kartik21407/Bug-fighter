@@ -1,0 +1,28 @@
+server:
+  port: ${PORT:8080}
+spring:
+  datasource:
+    url: ${DB_URL:jdbc:postgresql://localhost:5433/circular_carbon}
+    username: ${DB_USERNAME:postgres}
+    password: ${DB_PASSWORD:postgres}
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+    defer-datasource-initialization: true
+  sql:
+    init:
+      mode: ${SPRING_SQL_INIT_MODE:always}
+
+rag:
+  service:
+    url: ${RAG_SERVICE_URL:http://localhost:8000/api/recommend}
+
+cors:
+  allowed-origins: ${CORS_ALLOWED_ORIGINS:http://localhost:5173,http://localhost:3000,http://localhost:80,http://localhost:8081,http://frontend:80}
+
+springdoc:
+  api-docs:
+    path: /api-docs
+  swagger-ui:
+    path: /swagger-ui

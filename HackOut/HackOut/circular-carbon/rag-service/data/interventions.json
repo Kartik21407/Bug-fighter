@@ -1,0 +1,75 @@
+[
+  {
+    "id": "INT-001",
+    "title": "Switch from Coal to Biomass for Process Heat",
+    "category": "ENERGY",
+    "applicable_industries": [
+      "Steel",
+      "Cement",
+      "Food Processing"
+    ],
+    "description": "Replacing coal-fired boilers with biomass (agricultural residue, wood pellets) for process heat generation.",
+    "co2_reduction_percent": "40-60%",
+    "estimated_cost_savings": "10-25% reduction in fuel costs after initial investment",
+    "implementation_complexity": "Medium",
+    "payback_period": "2-4 years"
+  },
+  {
+    "id": "INT-002",
+    "title": "Implement Closed-Loop Water & Heat Recovery",
+    "category": "ENERGY",
+    "applicable_industries": [
+      "Textile",
+      "Food Processing",
+      "Chemical"
+    ],
+    "description": "Capture waste heat from exhaust gases and wastewater to preheat incoming water or air.",
+    "co2_reduction_percent": "15-30%",
+    "estimated_cost_savings": "20% reduction in heating costs",
+    "implementation_complexity": "High",
+    "payback_period": "3-5 years"
+  },
+  {
+    "id": "INT-003",
+    "title": "Use Recycled Scrap Steel (Electric Arc Furnace)",
+    "category": "MATERIAL",
+    "applicable_industries": [
+      "Steel",
+      "Automotive",
+      "Manufacturing"
+    ],
+    "description": "Increase the proportion of recycled steel scrap in production using EAF instead of blast furnaces.",
+    "co2_reduction_percent": "70%",
+    "estimated_cost_savings": "Varies by scrap price, typically cost-neutral or slight savings",
+    "implementation_complexity": "High",
+    "payback_period": "5+ years"
+  },
+  {
+    "id": "INT-004",
+    "title": "Industrial Symbiosis: Waste to Raw Material",
+    "category": "WASTE",
+    "applicable_industries": [
+      "Chemical",
+      "Cement",
+      "Agriculture"
+    ],
+    "description": "Sell or exchange industrial by-products (e.g., slag, fly ash, chemical waste) to be used as raw materials in other industries like cement or agriculture.",
+    "co2_reduction_percent": "100% of waste emission",
+    "estimated_cost_savings": "Converts waste disposal cost into a revenue stream",
+    "implementation_complexity": "Medium",
+    "payback_period": "1-2 years"
+  },
+  {
+    "id": "INT-005",
+    "title": "Optimize Logistics with Route Planning and EV Fleet",
+    "category": "TRANSPORT",
+    "applicable_industries": [
+      "All"
+    ],
+    "description": "Transition internal and local delivery fleets to electric vehicles and use AI-driven route optimization.",
+    "co2_reduction_percent": "30-50%",
+    "estimated_cost_savings": "15% in fuel and maintenance",
+    "implementation_complexity": "Medium",
+    "payback_period": "3-5 years"
+  }
+]
