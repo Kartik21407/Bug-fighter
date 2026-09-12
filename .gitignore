@@ -3,6 +3,9 @@
 .env.*
 !.env.example
 
+# PDF documents
+*.pdf
+
 # Binaries & Executables
 *.exe
 *.dll
