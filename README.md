@@ -1,6 +1,6 @@
 # 🌿 Circular Carbon — Industrial Emission Leak-Point Detector & Circular Alternative Recommender
 
-> **HackOut'26** | **Theme:** Circular Carbon Ecosystem  
+> ## HackOut'26 | **Theme:** Circular Carbon Ecosystem  
 > ## Live Web App: [https://circular-carbon-frontend.onrender.com/](https://circular-carbon-frontend.onrender.com/)  
 
 
