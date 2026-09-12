@@ -1,8 +1,8 @@
 # 🌿 Circular Carbon — Industrial Emission Leak-Point Detector & Circular Alternative Recommender
 
 > **HackOut'26** | **Theme:** Circular Carbon Ecosystem  
-> **Live Web App:** [https://circular-carbon-frontend.onrender.com/](https://circular-carbon-frontend.onrender.com/)  
-> **Repository:** [https://github.com/Kartik21407/Bug-fighter](https://github.com/Kartik21407/Bug-fighter)
+> ## Live Web App: [https://circular-carbon-frontend.onrender.com/](https://circular-carbon-frontend.onrender.com/)  
+
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.4-brightgreen?logo=springboot)](https://spring.io/projects/spring-boot)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
